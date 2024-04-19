@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	email = lalukrishnavallil01@gmail.com
+	name = lalukrish
+[remote "origin"]
+	url = git@github.com:lalukrish/firstApp.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
